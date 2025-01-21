@@ -4,6 +4,6 @@ import { getProfile, updateProfile } from '../controllers/user.js';
 const router = express.Router();
 
 router.get('/profile', getProfile);        
-router.patch('/profile', updateProfile);      
+router.post('/profile', updateProfile);      
 
 export default router;
