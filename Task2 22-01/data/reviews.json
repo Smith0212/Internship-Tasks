@@ -1,0 +1,62 @@
+[
+  {
+    "placeId": 1,
+    "user": "Alice",
+    "review": "The Eiffel Tower at night is breathtaking!"
+  },
+  {
+    "placeId": 1,
+    "user": "Bob",
+    "review": "Loved exploring the small cafes and museums in Paris."
+  },
+  {
+    "placeId": 2,
+    "user": "Charlie",
+    "review": "Tokyo’s cherry blossoms are a must-see!"
+  },
+  {
+    "placeId": 2,
+    "user": "Diana",
+    "review": "The sushi in Tokyo is out of this world."
+  },
+  {
+    "placeId": 3,
+    "user": "Eve",
+    "review": "New York’s skyline is unlike any other."
+  },
+  {
+    "placeId": 3,
+    "user": "Frank",
+    "review": "Broadway shows were the highlight of my trip!"
+  },
+  {
+    "placeId": 4,
+    "user": "Grace",
+    "review": "The pyramids are a wonder of the world for a reason."
+  },
+  {
+    "placeId": 4,
+    "user": "Hank",
+    "review": "Cairo’s history is fascinating, but it can get very hot!"
+  },
+  {
+    "placeId": 5,
+    "user": "Ivy",
+    "review": "Sydney’s harbor is stunning, and the Opera House tour is great."
+  },
+  {
+    "placeId": 5,
+    "user": "Jack",
+    "review": "Bondi Beach is perfect for surfing!"
+  },
+  {
+    "placeId": 1,
+    "user": "Smit",
+    "review": "good"
+  },
+  {
+    "placeId": 1,
+    "user": "parth",
+    "review": "batter"
+  }
+]

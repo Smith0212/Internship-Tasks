@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "location": "Paris, France",
+    "about": "The city of love and lights. Home to the Eiffel Tower.",
+    "picture": "paris.jpg"
+  },
+  {
+    "id": 2,
+    "location": "Tokyo, Japan",
+    "about": "A bustling metropolis known for its blend of tradition and modernity.",
+    "picture": "tokyo.jpg"
+  },
+  {
+    "id": 3,
+    "location": "New York City, USA",
+    "about": "The Big Apple, famous for Times Square and Central Park.",
+    "picture": "new_york.jpg"
+  },
+  {
+    "id": 4,
+    "location": "Cairo, Egypt",
+    "about": "Home of the Great Pyramids and rich ancient history.",
+    "picture": "cairo.jpg"
+  },
+  {
+    "id": 5,
+    "location": "Sydney, Australia",
+    "about": "Known for its iconic Opera House and stunning harbor.",
+    "picture": "sydney.jpg"
+  },
+  {
+    "id": 6,
+    "location": "ahmedabad",
+    "about": "urban",
+    "picture": "images"
+  },
+  {
+    "id": 7,
+    "location": "ahmedabad1",
+    "about": "urban",
+    "picture": "images"
+  }
+]

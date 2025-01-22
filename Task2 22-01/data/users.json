@@ -1,0 +1,13 @@
+[
+  {
+    "name": "smit",
+    "email": "smit@gmail.com",
+    "password": "123",
+    "about": "this is edited profile1"
+  },
+  {
+    "name": "smit1",
+    "email": "smit1@gmail.com",
+    "password": "1234"
+  }
+]
